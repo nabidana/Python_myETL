@@ -4,3 +4,4 @@ asd123
 localhost
 1521
 XE
+oracle
